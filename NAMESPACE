@@ -1,0 +1,8 @@
+export(GoogleAPI)
+export(InitPolidata)
+export(PopongAPI)
+export(ShowAPIKeys)
+export(SunlightAPI)
+export(apiInfo)
+import(RCurl)
+import(jsonlite)
