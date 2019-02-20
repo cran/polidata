@@ -17,7 +17,7 @@ PopongAPI(method, search = NULL, getSummary = FALSE,
   \item{debug}{Enable debugging mode}
 }
 \description{
-See \url{(http://data.popong.com)}
+See \url{http://data.popong.com}
 }
 \seealso{
 \code{\link{GoogleAPI}}, \code{\link{SunlightAPI}}

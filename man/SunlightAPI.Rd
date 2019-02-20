@@ -12,7 +12,7 @@ SunlightAPI(method, key = getOption("SunlightAPIKey"), debug = FALSE)
   \item{debug}{Enable debugging mode}
 }
 \description{
-See \url{(https://sunlightlabs.github.io/congress/)}
+See \url{https://sunlightlabs.github.io/congress/}
 }
 \seealso{
 \code{\link{GoogleAPI}}, \code{\link{PopongAPI}}

@@ -1,10 +1,10 @@
-.apiJson <- system.file("extdata", "api.json", package="polidata")
+#.apiJson <- system.file("extdata", "api.json", package="polidata")
 
 
 #' Print information about the APIs accessible through polidata
 #'
 #' @export apiInfo
-apiInfo <- jsonlite::fromJSON(.apiJson)
+apiInfo <- jsonlite::fromJSON(system.file("extdata", "api.json", package="polidata"))
 
 
 apiSources <- sapply(ls(apiInfo), Capitalize)

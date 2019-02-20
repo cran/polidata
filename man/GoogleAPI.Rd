@@ -13,7 +13,7 @@ GoogleAPI(method, key = getOption("GoogleAPIKey"), debug = FALSE)
 }
 \description{
 See
-\url{(https://developers.google.com/civic-information/)}
+\url{https://developers.google.com/civic-information/}
 }
 \seealso{
 \code{\link{PopongAPI}}, \code{\link{SunlightAPI}}
